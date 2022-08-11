@@ -1,0 +1,13 @@
+org\javaboy\vhr\mapper\MenuMapper.class
+org\javaboy\vhr\mapper\NationMapper.class
+org\javaboy\vhr\mapper\PositionMapper.class
+org\javaboy\vhr\mapper\SysMsgMapper.class
+org\javaboy\vhr\mapper\HrRoleMapper.class
+org\javaboy\vhr\mapper\HrMapper.class
+org\javaboy\vhr\mapper\RoleMapper.class
+org\javaboy\vhr\mapper\JobLevelMapper.class
+org\javaboy\vhr\mapper\MenuRoleMapper.class
+org\javaboy\vhr\mapper\PoliticsstatusMapper.class
+org\javaboy\vhr\mapper\SalaryMapper.class
+org\javaboy\vhr\mapper\DepartmentMapper.class
+org\javaboy\vhr\mapper\EmployeeMapper.class
