@@ -6,7 +6,7 @@
 
 ### Demo
 
-<div align=left><img src=".\demo\demo.gif" width="560px"/></div>
+[![Watch the video](Watch the video)](https://user-images.githubusercontent.com/45954853/184365323-b04718a4-3ba0-48cd-b4e4-d8b9b555d362.mp4)
 
 ### 项目技术栈
 
